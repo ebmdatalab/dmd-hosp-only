@@ -1,0 +1,208 @@
+bnf_code,nm,hospital_only,c
+0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials,Mixture,1
+0203020C0AAABAB,Adenosine 30mg/10ml solution for infusion vials,Mixture,1
+0203020D0AAADAD,Amiodarone 150mg/3ml solution for injection ampoules,Mixture,1
+0203020D0AAADAD,Amiodarone 150mg/3ml concentrate for solution for injection ampoules,Mixture,1
+0204000I0AAAAAA,Labetalol 100mg/20ml solution for injection ampoules,Mixture,1
+0206010I0AAACAC,Isosorbide dinitrate 10mg/10ml solution for injection ampoules,Mixture,1
+0207010F0AAAAAA,Dopamine 200mg/5ml solution for infusion ampoules,Mixture,1
+0207020R0AAAFAF,Noradrenaline (base) 4mg/4ml solution for infusion ampoules,Mixture,1
+0207030A0AAABAB,"Adrenaline (base) 1mg/10ml (1 in 10,000) dilute solution for injection pre-filled syringes",Mixture,1
+0208010ABAAACAC,Fondaparinux sodium 7.5mg/0.6ml solution for injection pre-filled syringes,Mixture,1
+0208010C0AAAAAA,Danaparoid sodium 750units/0.6ml solution for injection ampoules,Mixture,1
+0211000H0AAAEAE,"Aprotinin 500,000 Kallikrein inactivator units/50ml solution for infusion vials",Mixture,1
+0211000J0AAAEAE,High Purity Factor IX 500unit powder and solvent for solution for injection vials,Mixture,1
+0211000J0AAAFAF,"High Purity Factor IX 1,000unit powder and solvent for solution for injection vials",Mixture,1
+0211000P0AAAAAA,Tranexamic acid 500mg/5ml solution for injection ampoules,Mixture,1
+0304010G0AAAAAA,Chlorphenamine 10mg/1ml solution for injection ampoules,Mixture,1
+0406000S0AAACAC,Ondansetron 8mg tablets,Mixture,1
+0407020ADAAALAL,Oxycodone 10mg/1ml solution for injection ampoules,Mixture,1
+0407020ADAAAMAM,Oxycodone 20mg/2ml solution for injection ampoules,Mixture,1
+0407020ADAAANAN,Oxycodone 50mg/1ml solution for injection ampoules,Mixture,1
+0408010A0AAAJAJ,Levetiracetam 500mg/5ml solution for infusion vials,Mixture,1
+0408010A0AAAJAJ,Levetiracetam 500mg/5ml concentrate for solution for infusion vials,Mixture,1
+0408010F0AAABAB,Clonazepam 500microgram tablets,Mixture,1
+0408010F0AAACAC,Clonazepam 2mg tablets,Mixture,1
+0408020T0AAAAAA,Phenytoin sodium 250mg/5ml solution for injection ampoules,Mixture,1
+0409030B0AAADAD,Botulinum toxin type A 50unit powder for solution for injection vials,Mixture,1
+0409030B0AAAEAE,Botulinum toxin type A 100unit powder for solution for injection vials,Mixture,1
+0501012G0AAACAC,Flucloxacillin 250mg powder for solution for injection vials,Mixture,1
+0501012G0AAADAD,Flucloxacillin 500mg powder for solution for injection vials,Mixture,1
+0501012G0AAAEAE,Flucloxacillin 1g powder for solution for injection vials,Mixture,1
+0501013C0AAACAC,Amoxicillin 250mg powder for solution for injection vials,Mixture,1
+0501013C0AAADAD,Amoxicillin 500mg powder for solution for injection vials,Mixture,1
+0501013C0AAAEAE,Amoxicillin 1g powder for solution for injection vials,Mixture,1
+0501013K0AAAEAE,Co-amoxiclav 500mg/100mg powder for solution for injection vials,Mixture,1
+0501013K0AAAFAF,Co-amoxiclav 1000mg/200mg powder for solution for injection vials,Mixture,1
+0501014S0AAAAAA,Piperacillin 2g / Tazobactam 250mg powder for solution for infusion vials,Mixture,1
+0501014S0AAABAB,Piperacillin 4g / Tazobactam 500mg powder for solution for infusion vials,Mixture,1
+0501021D0AAAAAA,Cefotaxime 500mg powder for solution for injection vials,Mixture,1
+0501021D0AAABAB,Cefotaxime 1g powder for solution for injection vials,Mixture,1
+0501021E0AAADAD,Cefoxitin 1g powder for solution for injection vials,Mixture,1
+0501021E0AAAEAE,Cefoxitin 2g powder for solution for injection vials,Mixture,1
+0501021G0AAABAB,Ceftriaxone 250mg powder for solution for injection vials,Mixture,1
+0501021G0AAACAC,Ceftriaxone 1g powder for solution for injection vials,Mixture,1
+0501021G0AAADAD,Ceftriaxone 2g powder for solution for injection vials,Mixture,1
+0501021H0AAAAAA,Ceftazidime 500mg powder for solution for injection vials,Mixture,1
+0501021H0AAABAB,Ceftazidime 1g powder for solution for injection vials,Mixture,1
+0501021H0AAACAC,Ceftazidime 2g powder for solution for injection vials,Mixture,1
+0501021J0AAAAAA,Cefuroxime 250mg powder for injection vials,Mixture,1
+0501021J0AAABAB,Cefuroxime 750mg powder for injection vials,Mixture,1
+0501021J0AAACAC,Cefuroxime 1.5g powder for injection vials,Mixture,1
+0501022A0AAAAAA,Meropenem 500mg powder for solution for injection vials,Mixture,1
+0501022A0AAABAB,Meropenem 1g powder for solution for injection vials,Mixture,1
+0501022B0AAAAAA,Ertapenem 1g powder for solution for infusion vials,Mixture,1
+0501040H0AAAMAM,Gentamicin 80mg/2ml solution for injection vials,Mixture,1
+0501050B0AAACAC,Clarithromycin 500mg powder for solution for infusion vials,Mixture,1
+0501050K0AAAAAA,Erythromycin 1g powder for solution for infusion vials,Mixture,1
+0501060E0AAAAAA,Clindamycin 300mg/2ml solution for injection ampoules,Mixture,1
+0501060E0AAABAB,Clindamycin 600mg/4ml solution for injection ampoules,Mixture,1
+0501070I0AAABAB,Colistimethate 1million unit powder for solution for injection vials,Mixture,1
+0501070U0AAACAC,Vancomycin 500mg powder for solution for infusion vials,Mixture,1
+0501070U0AAACAC,Vancomycin 500mg powder for concentrate for solution for infusion vials,Mixture,1
+0501070U0AAAFAF,Vancomycin 1g powder for solution for infusion vials,Mixture,1
+0501070U0AAAFAF,Vancomycin 1g powder for concentrate for solution for infusion vials,Mixture,1
+0501070W0AAACAC,Linezolid 600mg/300ml infusion bags,Mixture,1
+0501120L0AAADAD,Ciprofloxacin 200mg/100ml solution for infusion bottles,Mixture,1
+0501120L0AAAYAY,Ciprofloxacin 400mg/200ml solution for infusion bottles,Mixture,1
+0502010A0AAAAAA,Posaconazole 40mg/ml oral suspension,Mixture,1
+0503010AAAAAAAA,Emtricitabine 200mg / Tenofovir 245mg tablets,Mixture,1
+0503010D0AAADAD,Efavirenz 600mg tablets,Mixture,1
+0503010L0AAAAAA,Atazanavir 150mg capsules,Mixture,1
+0503010L0AAABAB,Atazanavir 200mg capsules,Mixture,1
+0503010L0AAADAD,Atazanavir 300mg capsules,Mixture,1
+0503010Z0AAAAAA,Abacavir 600mg / Lamivudine 300mg tablets,Mixture,1
+0503021B0AAAAAA,Aciclovir 250mg powder for solution for infusion vials,Mixture,1
+0503021B0AAABAB,Aciclovir 500mg powder for solution for infusion vials,Mixture,1
+0503021C0AAAIAI,Aciclovir 250mg/10ml solution for infusion vials,Mixture,1
+0503021C0AAAIAI,Aciclovir 250mg/10ml concentrate for solution for infusion vials,Mixture,1
+0503021C0AAAJAJ,Aciclovir 500mg/20ml solution for infusion vials,Mixture,1
+0503022D0AAAAAA,Ganciclovir 500mg powder for solution for infusion vials,Mixture,1
+0503022D0AAAAAA,Ganciclovir 500mg powder for concentrate for solution for infusion vials,Mixture,1
+0603020H0AAALAL,Dexamethasone (base) 3.8mg/1ml solution for injection vials,Mixture,1
+0605020Y0AAAAAA,Tolvaptan 15mg tablets,Mixture,1
+0605020Y0AAABAB,Tolvaptan 30mg tablets,Mixture,1
+0606020V0AAABAB,Zoledronic acid 4mg/5ml solution for infusion vials,Mixture,1
+0606020V0AAABAB,Zoledronic acid 4mg/5ml concentrate for solution for infusion vials,Mixture,1
+0606020V0AAADAD,Zoledronic acid 4mg/100ml infusion bags,Mixture,1
+0606020V0AAAEAE,Zoledronic acid 4mg/100ml solution for infusion vials,Mixture,1
+0606020V0AAAFAF,Zoledronic acid 5mg/100ml solution for infusion vials,Mixture,1
+0606020W0AAACAC,Ibandronic acid 6mg/6ml solution for infusion vials,Mixture,1
+0701010T0AAACAC,Oxytocin 10units/1ml solution for injection ampoules,Mixture,1
+0701020K0AAAAAA,Mifepristone 200mg tablets,Mixture,1
+0703021Q0AAAAAA,Desogestrel 75microgram tablets,Mixture,1
+0704050R0AAABAB,Tadalafil 20mg tablets,Mixture,1
+0801000I0AAAGAG,Calcium folinate 15mg/2ml solution for injection ampoules,Mixture,1
+0801010D0AAAAAA,Carmustine 100mg powder and solvent for solution for infusion vials,Mixture,1
+0801010H0AAACAC,Cyclophosphamide 500mg powder for solution for injection vials,Mixture,1
+0801010H0AAADAD,Cyclophosphamide 1g powder for solution for injection vials,Mixture,1
+0801010S0AAADAD,Melphalan 50mg powder and solvent for solution for injection vials,Mixture,1
+0801020K0AAACAC,Doxorubicin 10mg/5ml solution for injection vials,Mixture,1
+0801020K0AAADAD,Doxorubicin 50mg/25ml solution for injection vials,Mixture,1
+0801020K0AAAJAJ,Doxorubicin 200mg/100ml solution for infusion vials,Mixture,1
+0801020K0AAAJAJ,Doxorubicin 200mg/100ml concentrate for solution for infusion vials,Mixture,1
+0801020N0AAADAD,Epirubicin 10mg/5ml solution for injection vials,Mixture,1
+0801020N0AAAEAE,Epirubicin 50mg/25ml solution for injection vials,Mixture,1
+0801020N0AAAFAF,Epirubicin 200mg/100ml solution for infusion vials,Mixture,1
+0801020Q0AAAGAG,Mitomycin 20mg powder for solution for injection vials,Mixture,1
+0801020R0AAAAAA,Mitoxantrone 20mg/10ml solution for infusion vials,Mixture,1
+0801020R0AAAAAA,Mitoxantrone 20mg/10ml concentrate for solution for infusion vials,Mixture,1
+0801030D0AAAIAI,Cytarabine 100mg/5ml solution for injection vials,Mixture,1
+0801030D0AAAJAJ,Cytarabine 500mg/5ml solution for injection vials,Mixture,1
+0801030D0AAAKAK,Cytarabine 1g/10ml solution for injection vials,Mixture,1
+0801030D0AAALAL,Cytarabine 2g/20ml solution for injection vials,Mixture,1
+0801030D0AAAMAM,Cytarabine 500mg/25ml solution for injection vials,Mixture,1
+0801030H0AAAEAE,Fluorouracil 2.5g/100ml solution for infusion vials,Mixture,1
+0801030H0AAARAR,Fluorouracil 500mg/10ml solution for injection vials,Mixture,1
+0801030H0AAATAT,Fluorouracil 2.5g/50ml solution for infusion vials,Mixture,1
+0801030H0AAAUAU,Fluorouracil 5g/100ml solution for infusion vials,Mixture,1
+0801030P0AAANAN,Methotrexate 50mg/2ml solution for injection vials,Mixture,1
+0801030P0AACKCK,Methotrexate 1g/10ml solution for injection vials,Mixture,1
+0801030P0AACSCS,Methotrexate 5g/50ml solution for infusion vials,Mixture,1
+0801030V0AAAAAA,Capecitabine 500mg tablets,Mixture,1
+0801030W0AAACAC,Fludarabine phosphate 50mg/2ml solution for injection vials,Mixture,1
+0801030W0AAACAC,Fludarabine phosphate 50mg/2ml concentrate for solution for injection vials,Mixture,1
+0801030X0AAAAAA,Gemcitabine 1g powder for solution for infusion vials,Mixture,1
+0801030X0AAABAB,Gemcitabine 200mg powder for solution for infusion vials,Mixture,1
+0801030X0AAADAD,Gemcitabine 2g powder for solution for infusion vials,Mixture,1
+0801040R0AAAAAA,Vinorelbine 10mg/1ml solution for infusion vials,Mixture,1
+0801040R0AAABAB,Vinorelbine 50mg/5ml solution for infusion vials,Mixture,1
+0801050ADAAAAAA,Trastuzumab 150mg powder for solution for infusion vials,Mixture,1
+0801050AFAAABAB,Topotecan 4mg powder for solution for infusion vials,Mixture,1
+0801050ALAAAAAA,Oxaliplatin 50mg/10ml solution for infusion vials,Mixture,1
+0801050ALAAAAAA,Oxaliplatin 50mg/10ml concentrate for solution for infusion vials,Mixture,1
+0801050ALAAABAB,Oxaliplatin 100mg/20ml solution for infusion vials,Mixture,1
+0801050ALAAABAB,Oxaliplatin 100mg/20ml concentrate for solution for infusion vials,Mixture,1
+0801050ALAAAEAE,Oxaliplatin 200mg/40ml solution for infusion vials,Mixture,1
+0801050ALAAAEAE,Oxaliplatin 200mg/40ml concentrate for solution for infusion vials,Mixture,1
+0801050AWAAAAAA,Gefitinib 250mg tablets,Mixture,1
+0801050BVAAAAAA,Lenvatinib 4mg capsules,Mixture,1
+0801050BVAAABAB,Lenvatinib 10mg capsules,Mixture,1
+0801050D0AAACAC,Docetaxel 20mg/1ml solution for infusion vials,Mixture,1
+0801050D0AAACAC,Docetaxel 20mg/1ml concentrate for solution for infusion vials,Mixture,1
+0801050D0AAADAD,Docetaxel 80mg/4ml solution for infusion vials,Mixture,1
+0801050D0AAADAD,Docetaxel 80mg/4ml concentrate for solution for infusion vials,Mixture,1
+0801050D0AAAIAI,Docetaxel 160mg/8ml solution for infusion vials,Mixture,1
+0801050D0AAAIAI,Docetaxel 160mg/8ml concentrate for solution for infusion vials,Mixture,1
+0801050F0AAADAD,Carboplatin 50mg/5ml solution for infusion vials,Mixture,1
+0801050F0AAAEAE,Carboplatin 150mg/15ml solution for infusion vials,Mixture,1
+0801050F0AAAEAE,Carboplatin 150mg/15ml concentrate for solution for infusion vials,Mixture,1
+0801050F0AAAFAF,Carboplatin 450mg/45ml solution for infusion vials,Mixture,1
+0801050F0AAAFAF,Carboplatin 450mg/45ml concentrate for solution for infusion vials,Mixture,1
+0801050F0AAAGAG,Carboplatin 600mg/60ml solution for infusion vials,Mixture,1
+0801050F0AAAGAG,Carboplatin 600mg/60ml concentrate for solution for infusion vials,Mixture,1
+0801050I0AAADAD,Cisplatin 50mg/50ml solution for infusion vials,Mixture,1
+0801050I0AAAEAE,Cisplatin 10mg/10ml solution for infusion vials,Mixture,1
+0801050I0AAAFAF,Cisplatin 100mg/100ml solution for infusion vials,Mixture,1
+0801050Q0AAAAAA,Irinotecan 100mg/5ml solution for infusion vials,Mixture,1
+0801050Q0AAAAAA,Irinotecan 100mg/5ml concentrate for solution for infusion vials,Mixture,1
+0801050Q0AAABAB,Irinotecan 40mg/2ml solution for infusion vials,Mixture,1
+0801050Q0AAABAB,Irinotecan 40mg/2ml concentrate for solution for infusion vials,Mixture,1
+0801050Q0AAACAC,Irinotecan 300mg/15ml solution for infusion vials,Mixture,1
+0801050Q0AAACAC,Irinotecan 300mg/15ml concentrate for solution for infusion vials,Mixture,1
+0801050V0AAAAAA,Paclitaxel 30mg/5ml solution for infusion vials,Mixture,1
+0801050V0AAAAAA,Paclitaxel 30mg/5ml concentrate for solution for infusion vials,Mixture,1
+0801050V0AAABAB,Paclitaxel 100mg/16.7ml solution for infusion vials,Mixture,1
+0801050V0AAABAB,Paclitaxel 100mg/16.7ml concentrate for solution for infusion vials,Mixture,1
+0801050V0AAACAC,Paclitaxel 150mg/25ml solution for infusion vials,Mixture,1
+0801050V0AAACAC,Paclitaxel 150mg/25ml concentrate for solution for infusion vials,Mixture,1
+0801050V0AAADAD,Paclitaxel 300mg/50ml solution for infusion vials,Mixture,1
+0801050V0AAADAD,Paclitaxel 300mg/50ml concentrate for solution for infusion vials,Mixture,1
+0801050Y0AAAAAA,Temozolomide 100mg capsules,Mixture,1
+0801050Y0AAABAB,Temozolomide 250mg capsules,Mixture,1
+0801050Y0AAACAC,Temozolomide 5mg capsules,Mixture,1
+0801050Y0AAADAD,Temozolomide 20mg capsules,Mixture,1
+0801050Y0AAAEAE,Temozolomide 140mg capsules,Mixture,1
+0801050Y0AAAFAF,Temozolomide 180mg capsules,Mixture,1
+0802010M0AAAHAH,Mycophenolate mofetil 500mg powder for solution for infusion vials,Mixture,1
+0802030F0AAAAAA,Rituximab 500mg/50ml solution for infusion vials,Mixture,1
+0802030F0AAABAB,Rituximab 100mg/10ml solution for infusion vials,Mixture,1
+0802040M0AAADAD,Interferon beta-1b 300microgram powder and solvent for solution for injection vials,Mixture,1
+0901060P0AAAAAA,Pegfilgrastim 6mg/0.6ml solution for injection pre-filled syringes,Mixture,1
+0902022I0AAAAAA,Gelatin 4% infusion 500ml bags,Mixture,1
+0905013N0AAABAB,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for injection 10ml ampoules,Mixture,1
+1001010Q0AAABAB,Phenylbutazone 100mg tablets,Mixture,1
+1001030D0AAACAC,Etanercept 50mg/1ml solution for injection pre-filled syringes,Mixture,1
+1001030D0AAADAD,Etanercept 25mg/0.5ml solution for injection pre-filled syringes,Mixture,1
+1001030D0AAAEAE,Etanercept 50mg/1ml solution for injection pre-filled disposable devices,Mixture,1
+1405010A0AAACAC,Normal immunoglobulin human 10g/200ml solution for infusion vials,Mixture,1
+1405010A0AAANAN,Normal immunoglobulin human 5g/100ml solution for infusion vials,Mixture,1
+1405010A0AABPBP,Normal immunoglobulin human 5g/50ml solution for infusion vials,Mixture,1
+1405010A0AABQBQ,Normal immunoglobulin human 10g/100ml solution for infusion vials,Mixture,1
+1405010A0AABRBR,Normal immunoglobulin human 20g/200ml solution for infusion vials,Mixture,1
+1405010A0AABXBX,Normal immunoglobulin human 2g/20ml solution for infusion vials,Mixture,1
+1501010F0AAABAB,Ketamine 500mg/10ml solution for injection vials,Mixture,1
+1501041T0AAABAB,Midazolam 10mg/5ml solution for injection ampoules,Mixture,1
+1501043A0AAADAD,Alfentanil 5mg/1ml solution for injection ampoules,Mixture,1
+1501050F0AAAAAA,Atracurium besilate 25mg/2.5ml solution for injection ampoules,Mixture,1
+1501050F0AAABAB,Atracurium besilate 50mg/5ml solution for injection ampoules,Mixture,1
+1501050W0AAACAC,Cisatracurium besilate 20mg/10ml solution for injection ampoules,Mixture,1
+1501050W0AAADAD,Cisatracurium besilate 150mg/30ml solution for injection vials,Mixture,1
+1501050X0AAABAB,Rocuronium bromide 100mg/10ml solution for injection vials,Mixture,1
+1501050X0AAACAC,Rocuronium bromide 50mg/5ml solution for injection vials,Mixture,1
+1501070F0AAAAAA,Flumazenil 500micrograms/5ml solution for injection ampoules,Mixture,1
+1502010C0AAADAD,Bupivacaine 50mg/10ml (0.5%) solution for injection ampoules,Mixture,1
+1502010R0AAAAAA,Ropivacaine 20mg/10ml solution for injection ampoules,Mixture,1
+1502010R0AAABAB,Ropivacaine 75mg/10ml solution for injection ampoules,Mixture,1
+1502010R0AAADAD,Ropivacaine 400mg/200ml infusion bags,Mixture,1
+1502010R0AAAEAE,Ropivacaine 100mg/10ml solution for injection ampoules,Mixture,1
